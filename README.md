@@ -13,7 +13,7 @@ This is a one click installer for installing gcc.
 - Installs Scoop if its not present
 - Installs GCC (MinGW-w64)
 - Installs 7Zip
-- Adds Scoop shims to ur user path
+- Adds Scoop  to ur user path
 
 ## Known bugs
 Sometimes it prints:
